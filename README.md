@@ -58,4 +58,5 @@ Data from the GET request is returned in an object `res.data` which is structed 
 ```
 
 ## UML Sequence Diagram
-![Sequence diagram](https://user-images.githubusercontent.com/84686636/199607279-33508661-c532-4a12-a0ec-ed152c7f21f8.png)
+
+![Sequence diagram (1)](https://user-images.githubusercontent.com/84686636/199614471-18de0a68-1071-4b1a-88c1-2456eec8c19e.png)
